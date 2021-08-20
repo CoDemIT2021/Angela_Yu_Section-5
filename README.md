@@ -1,4 +1,4 @@
-# Angela_Yu_Section-5 Team WebSite
+# Angela_Yu_Section-5 and Team WebSite
 
 https://codemit2021.github.io/CoDem_team_WebSite/
 Section 5: Intermediate CSS
